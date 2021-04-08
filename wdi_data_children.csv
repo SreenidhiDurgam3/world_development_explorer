@@ -1,0 +1,47 @@
+,Year,SL.TLF.0714.SW.ZS,SE.ADT.1524.LT.FM.ZS,NY.GDP.PCAP.PP.CD,Country Code,Country Name,Region,Income Group,Lending Type
+0,2012,95.24706,1.0047199726,19641.3528638347,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+1,2012,67.6,0.6402500272,2498.49731338,BEN,Benin,Sub-Saharan Africa ,Lower middle income,IDA
+2,2015,93.28,1.0001000166,7133.874457575,BOL,Bolivia,Latin America & Caribbean ,Lower middle income,IBRD
+3,2011,96.4063159688,1.0117399693,15040.0581828206,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2013,95.00429,1.0098500252,15588.7262064568,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2014,95.5443566591,1.0080900192,15718.5656477083,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+6,2015,95.96,1.0075600147,14744.1129133865,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+7,2010,75.1866556178,0.5520499945,958.920448342,CAF,Central African Republic,Sub-Saharan Africa ,Low income,IDA
+8,2015,50.7338162616,0.5014600158,1820.0593928342,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+9,2014,88.84466,1.0087499619,13307.4245015783,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+10,2015,86.64,1.0076800585,13265.7972569151,COL,Colombia,Latin America & Caribbean ,Upper middle income,IBRD
+11,2011,80.9751621994,1.0025199652,13387.5721512729,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+12,2012,58.8472561516,0.6643000245,2626.06838276,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+13,2012,88.8674,1.0147999525,11900.4909965793,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+14,2014,95.2018786189,1.0070500374,13475.0164700416,DOM,Dominican Republic,Latin America & Caribbean ,Upper middle income,IBRD
+15,2011,75.8193586966,1.002210021,9857.5218161362,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+16,2015,91.7832,0.9957200289,11060.2876329825,ECU,Ecuador,Latin America & Caribbean ,Upper middle income,IBRD
+17,2011,82.7,1.0082000494,6465.8106358369,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+18,2013,84.31546,1.0056699514,6877.1560880577,SLV,El Salvador,Latin America & Caribbean ,Lower middle income,IBRD
+19,2010,97.5636876629,1.0270299911,7771.3599435804,SWZ,Eswatini,Sub-Saharan Africa ,Lower middle income,IBRD
+20,2012,97.0872698432,1.0228099823,15356.1915415561,GAB,Gabon,Sub-Saharan Africa ,Upper middle income,IBRD
+21,2015,43.3684210526,0.9109899998000001,2066.8593586012,GMB,"Gambia, The",Sub-Saharan Africa ,Low income,IDA
+22,2012,76.0613560791,0.9630900025,7320.1534171854,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+23,2014,74.37481,0.9768300056,7758.4931351181,GTM,Guatemala,Latin America & Caribbean ,Upper middle income,IBRD
+24,2010,54.6,0.5802099705,1653.7181992609,GIN,Guinea,Sub-Saharan Africa ,Low income,IDA
+25,2014,75.7871617085,0.6983299851,1378.2326541905,GNB,Guinea-Bissau,Sub-Saharan Africa ,Low income,IDA
+26,2011,44.5,1.0205800533,3928.2680750057,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+27,2013,47.4,1.0254199505,4142.2398681578,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+28,2014,58.24664,1.0129300356,4452.5830191136,HND,Honduras,Latin America & Caribbean ,Lower middle income,IDA
+29,2014,95.18458,0.9308000207,1078.980573455,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+30,2015,92.7,1.0121799707,1018.9352624632,MWI,Malawi,Sub-Saharan Africa ,Low income,IDA
+31,2010,73.4,1.0011800528,15260.6205539571,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+32,2011,85.0496188217,1.0009100437,16520.2585085371,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+33,2013,85.53648,1.0007599592,17373.8970180913,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+34,2012,45.5,0.6516799927,1158.6701924245,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+35,2010,83.5,0.9939000010000001,15153.5276243633,PAN,Panama,Latin America & Caribbean ,High income,IBRD
+36,2014,90.71159,0.9949399829000001,11425.6611376997,PRY,Paraguay,Latin America & Caribbean ,Upper middle income,IBRD
+37,2014,74.24133,0.9962900281,11510.2838491968,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+38,2015,75.9330624062,0.9952999949,11572.3226921141,PER,Peru,Latin America & Caribbean ,Upper middle income,IBRD
+39,2010,92.0611729667,1.0168499947,1350.2073915899,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+40,2014,79.2,1.0283800364,1707.6730849759,RWA,Rwanda,Sub-Saharan Africa ,Low income,IDA
+41,2011,39.6,0.7967799902,2682.693606237,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+42,2013,73.2,0.7881100178,1746.5544651287,SLE,Sierra Leone,Sub-Saharan Africa ,Low income,IDA
+43,2012,84.6,0.9769999981,10217.1250903037,TUN,Tunisia,Middle East & North Africa,Lower middle income,IBRD
+44,2012,93.3810372265,0.9521300197,2005.2061577457,UGA,Uganda,Sub-Saharan Africa ,Low income,IDA
+45,2012,98.7,1.0002599955,9343.3307396608,UKR,Ukraine,Europe & Central Asia,Lower middle income,IBRD
